@@ -1,0 +1,6 @@
+C:\Users\magnu\OneDrive - Zealand Sjællands Erhvervsakademi\3. Semester\OpligatoriskeOpgaver\ObligatoriskOpgave\ObligatoriskOpgave\bin\Debug\ObligatoriskOpgave.dll
+C:\Users\magnu\OneDrive - Zealand Sjællands Erhvervsakademi\3. Semester\OpligatoriskeOpgaver\ObligatoriskOpgave\ObligatoriskOpgave\bin\Debug\ObligatoriskOpgave.pdb
+C:\Users\magnu\OneDrive - Zealand Sjællands Erhvervsakademi\3. Semester\OpligatoriskeOpgaver\ObligatoriskOpgave\ObligatoriskOpgave\obj\Debug\ObligatoriskOpgave.csproj.AssemblyReference.cache
+C:\Users\magnu\OneDrive - Zealand Sjællands Erhvervsakademi\3. Semester\OpligatoriskeOpgaver\ObligatoriskOpgave\ObligatoriskOpgave\obj\Debug\ObligatoriskOpgave.csproj.CoreCompileInputs.cache
+C:\Users\magnu\OneDrive - Zealand Sjællands Erhvervsakademi\3. Semester\OpligatoriskeOpgaver\ObligatoriskOpgave\ObligatoriskOpgave\obj\Debug\ObligatoriskOpgave.dll
+C:\Users\magnu\OneDrive - Zealand Sjællands Erhvervsakademi\3. Semester\OpligatoriskeOpgaver\ObligatoriskOpgave\ObligatoriskOpgave\obj\Debug\ObligatoriskOpgave.pdb
